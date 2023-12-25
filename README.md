@@ -1,2 +1,1 @@
-This is a git repository created to understand the working of Git and Github
-
+This Git repository consists of all the  completed tasks assigned to me 
